@@ -1,0 +1,11 @@
+
+# Ignore virtual environment
+env/
+
+# Ignore all CSV files inside specific folders
+30_day_Auth_files/*.csv
+Endpoint_files/*.csv
+
+# Ignore all CSV files globally (optional)
+*.csv
+
